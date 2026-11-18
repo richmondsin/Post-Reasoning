@@ -1,0 +1,11 @@
+### Note: This will export a standalone model
+model_name_or_path: ./warehouse/models/Mistral-Small-24B-Instruct-2501
+adapter_name_or_path: ./warehouse/checkpoints/mistralsmall-24b-reflection-numina-all-v2/checkpoint-103
+template: mistral
+finetuning_type: lora
+
+### Export Settings
+export_dir: ./warehouse/models/Mistral-Small-24B-Instruct-2501-numina-Reflection-Merged-v4
+export_size: 5
+export_device: cpu
+export_legacy_format: false

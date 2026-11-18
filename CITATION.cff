@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Post-Reasoning: Improving the Performance of Non-Thinking Models at Negligible Cost"
+authors:
+  - given-names: "Richmond Sin Jing Xuan"
+  - given-names: "Rishabh"
+    family-names: "Bhardwaj"
+  - given-names: "Soujanya"
+    family-names: "Poria"
+year: 2026
+date-released: "2026-11-19"
+license: MIT
+repository-code: "https://github.com/richmondsin/Post-Reasoning"
+url: "https://github.com/richmondsin/Post-Reasoning"
+identifiers:
+  - type: other
+    value: "arXiv:2605.06165"
+    description: "The paper on arXiv"
+preferred-citation:
+  type: article
+  title: "Post-Reasoning: Improving the Performance of Non-Thinking Models at Negligible Cost"
+  authors:
+    - given-names: "Richmond Sin Jing Xuan"
+    - given-names: "Rishabh"
+      family-names: "Bhardwaj"
+    - given-names: "Soujanya"
+      family-names: "Poria"
+  journal: "arXiv preprint arXiv:2605.06165"
+  year: 2026
+  url: "https://arxiv.org/abs/2605.06165"

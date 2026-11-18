@@ -1,0 +1,11 @@
+### Note: This will export a standalone model
+model_name_or_path: ./warehouse/models/gemma-3-27b-it
+adapter_name_or_path: ./warehouse/checkpoints/gemma3-27b-reflection-numina-all-v2/checkpoint-102
+template: gemma3
+finetuning_type: lora
+
+### Export Settings
+export_dir: ./warehouse/models/gemma-3-27b-it-numina-Reflection-Merged-v4
+export_size: 5
+export_device: cpu
+export_legacy_format: false

@@ -1,0 +1,18 @@
+# Install PyTorch and vLLM for your CUDA version first. Tested: Python 3.11, vLLM 0.17.1 (evaluation),
+# torch 2.11, transformers 5.5.0, peft 0.18.1 (training).
+vllm>=0.17
+transformers>=4.57
+peft>=0.18
+accelerate>=1.13
+datasets>=4.7
+huggingface_hub>=0.36
+openai>=2.24
+pandas
+tqdm
+python-dotenv
+wandb
+# the API models
+anthropic>=0.84
+google-genai
+# the merge of the LoRA adapter (llamafactory-cli export)
+llamafactory

@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+*.swp
+*~
+.venv*/
+venv/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.safetensors
+*.pt
+*.pth
+*.bin
+wandb/
+# data, models, checkpoints and results (PR_WAREHOUSE)
+/warehouse/

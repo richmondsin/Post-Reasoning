@@ -1,0 +1,11 @@
+### Note: This will export a standalone model
+model_name_or_path: ./warehouse/models/Qwen3-32B
+adapter_name_or_path: ./warehouse/checkpoints/qwen3-32b-reflection-numina-all-v2/checkpoint-101
+template: qwen3_nothink
+finetuning_type: lora
+
+### Export Settings
+export_dir: ./warehouse/models/Qwen3-32B-numina-Reflection-Merged-v4
+export_size: 5
+export_device: cpu
+export_legacy_format: false
