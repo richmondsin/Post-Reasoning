@@ -8,7 +8,7 @@
 <div align="center">
 
 [Richmond Sin Jing Xuan](https://richmondsin.vercel.app/)<sup>1</sup>,
-Rishabh Bhardwaj,
+[Rishabh Bhardwaj](https://www.alphaxiv.org/@rishabh-bhardwaj),
 [Soujanya Poria](https://soujanyaporia.github.io/)<sup>1</sup>
 
 <sup>1</sup>[DeCLaRe Lab](https://declare-lab.github.io/), Nanyang Technological University
